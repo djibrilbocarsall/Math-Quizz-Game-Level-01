@@ -1,2 +1,2 @@
-# Math-Quizz-Game-Level-01
+# Math-Quizz-Game
 Project Mini to Platform Programming Advice
